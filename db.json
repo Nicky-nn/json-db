@@ -1,0 +1,32 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "titulo": "React desde cero",
+            "image": "https://images.pexels.com/photos/1183021/pexels-photo-1183021.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 40,
+            "profesor": "Beto Quiroga"
+        },
+        {
+            "id": 2,
+            "titulo": "Drupal desde cero",
+            "image": "https://images.pexels.com/photos/4275885/pexels-photo-4275885.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 30,
+            "profesor": "Beto Quiroga"
+        },
+        {
+            "id": 3,
+            "titulo": "Go desde cero",
+            "image": "https://images.pexels.com/photos/2693529/pexels-photo-2693529.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 50,
+            "profesor": "Alexys Lozada"
+        },
+        {
+            "id": 4,
+            "titulo": "HTML desde cero",
+            "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 10,
+            "profesor": "Alvaro Felipe"
+        }
+    ]
+}
